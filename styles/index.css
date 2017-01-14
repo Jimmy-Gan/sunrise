@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+  background-color: #faa;
+}
+
+.quote-box {
+  border-radius: 10px;
+  position: relative;
+  margin: 1% auto auto auto;
+  width: 61.8%;
+  display: table;
+  background-color: #feb;
+}
+
+.quote-text {
+  border-radius: 10px;
+  position: relative;
+  margin: 1% auto auto auto;
+  width: 38.2%;
+  display: table;
+  background-color: #fcc;
+}
